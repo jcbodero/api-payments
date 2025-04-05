@@ -1,0 +1,8 @@
+#1 Instalar dotnet  .NET SDK (ej: .NET 7 o 8) 
+https://dotnet.microsoft.com/en-us/download
+
+#2 Install SQL Server With Docker#
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=TuPasswordFuerte123" -p 1433:1433 --name sqlserver -d mcr.microsoft.com/mssql/server:2019-latest
+
+#3 INstalar SQL Server Managment
+https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms
