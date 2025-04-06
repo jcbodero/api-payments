@@ -1,0 +1,6 @@
+@ms_payments_HostAddress = http://localhost:5140
+
+GET {{ms_payments_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

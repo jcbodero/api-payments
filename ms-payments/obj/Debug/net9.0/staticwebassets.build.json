@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FK9qW7DXDo64JP/v/ALR1veRqgm0h4jMv//R6hoLtt8=",
+  "Source": "ms-payments",
+  "BasePath": "_content/ms-payments",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
